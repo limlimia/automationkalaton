@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Shopping</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>2db8af51-0dad-4015-bd83-9cc0d15e82e4</testSuiteGuid>
+   <testCaseLink>
+      <guid>83815b5f-837d-408d-98fb-cbab471d39c4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Add to Cart</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d1d26efa-c233-42b0-9609-6ef8e120f87c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Form</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>d1d26efa-c233-42b0-9609-6ef8e120f87c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>firstName</value>
+         <variableId>f531812d-406f-4e54-9982-b960f6eba74d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d1d26efa-c233-42b0-9609-6ef8e120f87c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>lastName</value>
+         <variableId>2168fd95-78da-4261-b4eb-00aaf3696b69</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d1d26efa-c233-42b0-9609-6ef8e120f87c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>postalCode</value>
+         <variableId>b1f5f229-a908-4af0-b895-7fee9481ebf3</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

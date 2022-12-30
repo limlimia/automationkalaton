@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Filter Products</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86306fae-2809-4bb1-9d5b-f92584975f64</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>851c651a-9517-4314-b9a5-f9ca1c1196b7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>851c651a-9517-4314-b9a5-f9ca1c1196b7</id>
+      <masked>false</masked>
+      <name>LOV</name>
+   </variable>
+</TestCaseEntity>
