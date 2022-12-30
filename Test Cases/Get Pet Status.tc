@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get Pet Status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad649bb3-1190-410e-ad43-77b131963356</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>be2db572-12f3-4cce-8b21-05b787b7bb08</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'sold'</defaultValue>
+      <description></description>
+      <id>be2db572-12f3-4cce-8b21-05b787b7bb08</id>
+      <masked>false</masked>
+      <name>status</name>
+   </variable>
+</TestCaseEntity>
