@@ -1,6 +1,10 @@
 {
-  "keywordFileContentHash": "E7B38A182E983B772AEFD5177BAED16E",
+  "keywordFileContentHash": "4F952033429B149B1262D7A3B7055B65",
   "keywordClasses": [
+    {
+      "name": "DataTableType",
+      "keywordMethods": []
+    },
     {
       "name": "Login",
       "keywordMethods": []
